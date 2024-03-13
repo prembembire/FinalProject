@@ -1,0 +1,25 @@
+
+<div class="container">
+<table class="table table-bordered table-striped mt-3">
+  <thead class="thead-dark">
+    <tr>
+      <th>Patient Name</th>
+      <th>DoctorName</th>
+      <th>Symptoms</th>
+      <th>Treatment</th>
+      <th>TestDone</th>
+      <th>Prescription</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of getPApp.medRecords">
+      <td>{{ p.PatientName }}</td>
+      <td>{{ p.DoctorName }}</td>
+      <td>{{ p.Symptoms }}</td>
+      <td>{{ p.Treatment }}</td>
+      <td>{{ p.TestDone }}</td>
+      <td>{{ p.Prescription }}</td>
+    </tr>
+  </tbody>
+</table>
+</div>

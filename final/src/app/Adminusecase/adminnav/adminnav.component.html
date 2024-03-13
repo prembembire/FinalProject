@@ -1,0 +1,19 @@
+<header>
+    <div class="container">
+        <nav>
+            <ul>
+              <li><a routerLink="ManageDoctors">ManageDoctors</a></li>
+              <li><a routerLink="ManagePatients">ManagePatients</a></li>
+              <li><a routerLink="ManageAppointments">ManageAppointments</a></li>
+              <li><a routerLink="PatientRegister" (click)="navigateToPatientRegisterPage()">RegisterPatient</a></li>
+              <li><a routerLink="doctorRegister"  (click)="navigateToDoctorRegisterPage()">RegisterDoctor</a></li>
+              <li><a routerLink="" (click)="logOut()">Logout</a></li>
+            </ul>
+        </nav>
+    </div>
+  </header>
+  <div>
+    <router-outlet></router-outlet>
+  </div>
+
+ 

@@ -1,0 +1,123 @@
+<body>
+
+  <div class="searchbar">
+    <label for="patientId bg-dark">Enter PatientId :</label>
+    <input type="text" name="patientId" placeholder="Patient Id" [(ngModel)]="patientId"/>
+    <button (click)="getPatientById()">Search</button>
+  </div>
+  
+  <div class="container">
+    <table *ngIf="onlyShowGetPatients" class="table table-bordered table-striped mt-3">
+      <thead class="thead-dark">
+        <tr>
+          <th>PatientId</th>
+          <th>FullName</th>
+          <th>DOB</th>
+          <th>Gender</th>
+          <th>ContactNumber</th>
+          <th>UserName</th>
+          <th>Edit</th>
+          <th>Delete</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let p of patientList">
+          <td>{{ p.PatientId }}</td>
+          <td>{{ p.FullName }}</td>
+          <td>{{ p.DOB | date:"dd/MM/yyyy" }}</td>
+          <td>{{ p.Gender }}</td>
+          <td>{{ p.ContactNumber }}</td>
+          <td>{{ p.UserName }}</td>
+          <td><button (click)="fillForm(p)" class="btn btn-success"><i class="bi bi-pencil-square"></i> Edit</button></td>
+          <td><button (click)="delPatient(p.PatientId)" class="btn btn-danger"><i class="bi bi-trash"></i> Delete</button></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  <form *ngIf="!onlyShowGetPatients" #form="ngForm" autocomplete="off" (submit)="onSubmit(form)">
+    <input type="hidden" name="Id" [(ngModel)]="srv.patient.PatientId">
+  
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fa fa-user-circle-o me-2" aria-hidden="true" [class.green-icon]="FullName.valid" [class.red-icon]="FullName.invalid && FullName.touched"></i>
+              </div>
+            </div>
+            <input name="FullName" #FullName="ngModel" [(ngModel)]="srv.patient.FullName" placeholder="Full Name" class="form-control" required />
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fa fa-diamond me-2" aria-hidden="true" [class.green-icon]="ContactNumber.valid" [class.red-icon]="ContactNumber.invalid && ContactNumber.touched"></i>
+              </div>
+            </div>
+            <input name="ContactNumber" #ContactNumber="ngModel" [(ngModel)]="srv.patient.ContactNumber" placeholder="Contact Number" class="form-control" required maxlength="15" minlength="10" />
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fa fa-calendar me-2" aria-hidden="true" [class.green-icon]="DOB.valid" [class.red-icon]="DOB.invalid && DOB.touched"></i>
+              </div>
+            </div>
+            <input name="DOB" #DOB="ngModel" [(ngModel)]="srv.patient.DOB" placeholder="yyyy-MM-dd" class="form-control" required maxlength="10" minlength="10" />
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fa fa-venus-mars me-2" aria-hidden="true" [class.green-icon]="Gender.valid" [class.red-icon]="Gender.invalid && Gender.touched"></i>
+              </div>
+            </div>
+            <select name="Gender" #Gender="ngModel" [(ngModel)]="srv.patient.Gender" placeholder="Gender" class="form-control" required>
+              <option value="" disabled selected>Select Gender</option>
+              <option value="male">Male</option>
+              <option value="female">Female</option>
+              <option value="other">Other</option>
+            </select>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-md-6">
+        <div class="form-group">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <div class="input-group-text bg-white">
+                <i class="fa fa-user me-2" aria-hidden="true" [class.green-icon]="UserName.valid" [class.red-icon]="UserName.invalid && UserName.touched"></i>
+              </div>
+            </div>
+            <input name="UserName" #UserName="ngModel" [(ngModel)]="srv.patient.UserName" placeholder="User Name" class="form-control" required />
+          </div>
+        </div>
+      </div>
+    </div>
+  
+    <div class="form-group">
+      <button class="btn btn-success btn-lg" type="submit" [disabled]="form.invalid">
+        <i class="fa fa-database"></i> Insert/Update Patient
+      </button>
+    </div>
+  
+  </form>
+  
+</body>

@@ -1,0 +1,48 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+  }
+  
+  #hero {
+    position: relative; 
+    background-image: url("https://static5.depositphotos.com/1039887/475/i/450/depositphotos_4756704-stock-photo-modern-hospital-building-front-emergency.jpg");
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    text-align: center;
+    padding: 100px 0; 
+    z-index: 1; 
+  }
+  
+  .image-slider img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1; 
+  }
+  
+  .container {
+    max-width: 800px; 
+    margin: 0 auto;
+  }
+  
+  footer {
+    background-color: #333; 
+    color: white; 
+    text-align: center;
+    padding: 20px 0; 
+  }
+h2,p{
+  text-align: justify;
+}
+h2{
+  color:darkred
+}
+
+footer p{
+  text-align: center;
+}
+  

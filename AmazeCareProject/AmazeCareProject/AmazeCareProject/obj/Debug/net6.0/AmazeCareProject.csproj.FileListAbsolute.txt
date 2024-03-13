@@ -1,0 +1,1115 @@
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.Development.json
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.json
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.exe
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.deps.json
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.runtimeconfig.json
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.pdb
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.AssemblyReference.cache
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfoInputs.cache
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfo.cs
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CoreCompileInputs.cache
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cs
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCareProject.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCareProject.props
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCareProject.props
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCareProject.props
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\scopedcss\bundle\AmazeCareProject.styles.css
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CopyComplete
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.dll
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\refint\AmazeCareProject.dll
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.pdb
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.genruntimeconfig.cache
+D:\Project\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\ref\AmazeCareProject.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Humanizer.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Common.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Project\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.Development.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.exe
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.deps.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.runtimeconfig.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.pdb
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Humanizer.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Common.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Configuration.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Packaging.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Protocol.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Versioning.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Convention.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.AssemblyReference.cache
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.GeneratedMSBuildEditorConfig.editorconfig
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfoInputs.cache
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfo.cs
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CoreCompileInputs.cache
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cs
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cache
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.build.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.development.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCareProject.Microsoft.AspNetCore.StaticWebAssets.props
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCareProject.props
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCareProject.props
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCareProject.props
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.pack.json
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\scopedcss\bundle\AmazeCareProject.styles.css
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CopyComplete
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\refint\AmazeCareProject.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.pdb
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.genruntimeconfig.cache
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\ref\AmazeCareProject.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\Frontend-Backend\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.exe
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.deps.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.runtimeconfig.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.pdb
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.AssemblyReference.cache
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfoInputs.cache
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfo.cs
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CoreCompileInputs.cache
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.sourcelink.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCareProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCareProject.props
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCareProject.props
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCareProject.props
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\scopedcss\bundle\AmazeCareProject.styles.css
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CopyComplete
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\refint\AmazeCareProject.dll
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.pdb
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.genruntimeconfig.cache
+C:\Users\Manideep Reddy\Downloads\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\ref\AmazeCareProject.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.Development.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\appsettings.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.exe
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.deps.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.runtimeconfig.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\AmazeCareProject.pdb
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Humanizer.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\MessagePack.Annotations.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Common.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Configuration.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Frameworks.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.LibraryModel.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Packaging.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.ProjectModel.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Protocol.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\NuGet.Versioning.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Convention.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Hosting.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.Runtime.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Composition.TypedParts.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Security.Permissions.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\af\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ar\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\az\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bg\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\da\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\el\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fa\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\he\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hr\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hu\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\hy\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\id\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\is\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ku\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\lv\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\mt\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\nl\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ro\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sk\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sl\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\sv\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uk\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\vi\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.AssemblyReference.cache
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.GeneratedMSBuildEditorConfig.editorconfig
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfoInputs.cache
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.AssemblyInfo.cs
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CoreCompileInputs.cache
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cs
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.MvcApplicationPartsAssemblyInfo.cache
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.build.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.development.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.AmazeCareProject.Microsoft.AspNetCore.StaticWebAssets.props
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.build.AmazeCareProject.props
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AmazeCareProject.props
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AmazeCareProject.props
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\staticwebassets.pack.json
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\scopedcss\bundle\AmazeCareProject.styles.css
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.csproj.CopyComplete
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\refint\AmazeCareProject.dll
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.pdb
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\AmazeCareProject.genruntimeconfig.cache
+J:\Frontend-Backend\final\AmazeCareProject\AmazeCareProject\AmazeCareProject\obj\Debug\net6.0\ref\AmazeCareProject.dll

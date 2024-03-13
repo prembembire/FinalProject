@@ -1,0 +1,80 @@
+
+body, header, nav, ul, li, img, h1, h2, p {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    background-color: whitesmoke; /* Updated header background color */
+    color: red; /* Updated header text color */
+    padding: 10px 0;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-right: auto;
+    color: red; /* Updated header text color */
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-left: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: red; /* Updated header link text color */
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li  {
+    color: #ccc;
+}
+
+#hero {
+    background-color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+#hero img {
+    width: 50%;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+
+#hero h2 {
+    text-align: left;
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+#about, #services, #contact {
+    background-color: #fff;
+    padding: 50px 0;
+    text-align: center;
+}
+
+footer {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}

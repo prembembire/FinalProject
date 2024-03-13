@@ -1,0 +1,89 @@
+
+<body *ngIf="!showForm">
+    <h2 class="bg-primary text-center">List of Available Doctors</h2>
+
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+      <tr>
+        <th>DoctorId</th>
+        <th> Name</th>
+        <th>Speciality</th>
+        <th> ExperienceYears </th>
+        <th>Qualification</th>
+        <th>Designation</th>
+        <th>Book Appointment</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let doctor of this.docList">
+        <td>{{ doctor.DoctorId }}</td>
+        <td>{{ doctor.Name }}</td>
+        <td>{{ doctor.Specialty }}</td>
+        <td>{{ doctor.ExperienceYears }}</td>
+        <td>{{ doctor.Qualification }}</td>
+        <td>{{ doctor.Designation }}</td>
+        <button (click)="bookAppointment(doctor.DoctorId)">Book Appointment</button>
+      </tr>
+    </tbody>
+  </table>
+</body>
+
+
+
+<form *ngIf="showForm" #form="ngForm" autocomplete="off" (submit)="OnSubmit(form)" class="appointment-form">
+
+<div class="form-group">
+    <label for="PatientId">Patient ID</label>
+    <input name="PatientId" [(ngModel)]="srv.bookApp.PatientId" id="PatientId" class="form-control" readonly>
+</div>
+
+<div class="form-group">
+    <label for="DoctorId">Doctor ID</label>
+    <input name="DoctorId" [(ngModel)]="srv.bookApp.DoctorId" id="DoctorId" class="form-control" readonly>
+</div>
+
+  
+    <div class="form-group">
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <div class="input-group-text bg-white border-right-0">
+                    <i class="fa fa-calendar" aria-hidden="true" 
+                    [class.green-icon]="AppointmentDate.valid"
+                    [class.red-icon]="AppointmentDate.invalid && AppointmentDate.touched"></i>
+                </div>
+            </div>
+            <input type="date" name="AppointmentDate" #AppointmentDate="ngModel" 
+                [(ngModel)]="srv.bookApp.AppointmentDate"
+                placeholder="AppointmentDate" class="form-control border-left-0" required >
+        </div>
+    </div>
+  
+    <div class="form-group">
+        <div class="input-group">
+            <div class="input-group-prepend">
+                <div class="input-group-text bg-white border-right-0">
+                    <i class="fa fa-user-circle-o" aria-hidden="true" 
+                    [class.green-icon]="VisitType.valid"
+                    [class.red-icon]="VisitType.invalid && VisitType.touched"></i>
+                </div>
+            </div>
+            <select name="VisitType" #VisitType="ngModel" 
+                [(ngModel)]="srv.bookApp.VisitType"
+                class="form-control border-left-0" required>
+                <option value="" disabled selected>Select Nature of Visit</option>
+                <option value="General Checkup">General Checkup</option>
+                <option value="Consultation">Consultation</option>
+            </select>
+        </div>
+    </div>
+    
+    
+    <div class="form-group">
+        <button class="btn btn-success btn-lg" type="submit"
+        [disabled]="form.invalid">
+        <i class="fa fa-database"></i>Book Appointment
+        </button>
+    </div>
+</form>

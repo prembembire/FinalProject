@@ -1,0 +1,24 @@
+
+<div class="container">
+<table class="table table-bordered table-striped mt-3">
+  <thead class="thead-dark">
+    <tr>
+      <th>AppointmentId</th>
+      <th>Patient Name</th>
+      <th>Contact Number</th>
+      <th>Date</th>
+      <th>Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of srv.apps">
+      <td>{{p.AppointmentId}}</td>
+      <td>{{ p.PatientName }}</td>
+      <td>{{p.ContactNumber}}</td>
+      <td>{{p.Date|date:'short'}}</td>
+      <td><button (click)="delRecord(p.AppointmentId)" class="btn btn-danger"><i class="bi bi-trash"></i> Cancel</button></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>

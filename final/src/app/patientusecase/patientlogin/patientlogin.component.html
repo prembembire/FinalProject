@@ -1,0 +1,38 @@
+
+<div class="image">
+  <img src="https://media.istockphoto.com/id/1390886692/photo/homecare-visit-with-a-senior-gentleman.jpg?s=612x612&w=0&k=20&c=Nczw0lwNa2-j33GZgVPMrMl7jmY9XyyuFeBXk_nxj6k=" alt="Hospital Image">
+  <div class="image-content">
+    <form #loginForm="ngForm" (ngSubmit)="login(loginForm)" class="form-signin">
+      <h2 class="form-signin-heading text-center">Login</h2>
+      <div *ngIf="invalidLogin" class="alert alert-danger">Invalid username or password.</div>
+      <div class="form-group">
+        <label for="username" class="sr-only">Email address</label>
+        <input type="email" id="username" name="username" [(ngModel)]="credentials.UserName" 
+          class="form-control" placeholder="User Name" required>
+      </div>
+      <div class="form-group">
+        <label for="password" class="sr-only">Password</label>
+        <input type="password" id="password" name="password" [(ngModel)]="credentials.Password" 
+          class="form-control" placeholder="Password" required>
+      </div>
+      <div class="form-group">
+        <label for="role">Role:</label>
+        <select id="role" name="role" [(ngModel)]="credentials.SelectedRole" class="form-control" required>
+          <option value="" disabled selected>Select role</option>
+          <option value="Patient">Patient</option>
+          <option value="Admin">Admin</option>
+          <option value="Doctor">Doctor</option>
+        </select>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit" [disabled]="!loginForm.valid">Log in</button>
+      <div class="row mt-3">
+        <div class="col-md-6 text-left">
+          <a href="PatientRegister" class="btn btn-link">Sign up</a>
+        </div>
+        <div class="col-md-6 text-right">
+          <a href="forgotPassword" class="btn btn-link">Forgot password</a>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

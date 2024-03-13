@@ -1,0 +1,17 @@
+
+<header>
+    <div>
+      <div class="container">
+          <nav>
+              <ul>
+                <li><a routerLink="Appointment">Manage Appointments</a></li>
+                <li><a routerLink="MedicalRecord">Manage MedicalRecords</a></li>
+                <li><a routerLink="/" (click)="logOut()">Logout</a></li>
+              </ul>
+          </nav>
+      </div>
+    </div>
+</header>
+<div>
+  <router-outlet></router-outlet>
+</div>
